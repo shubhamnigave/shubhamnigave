@@ -4,7 +4,7 @@
 **shubhamnigave/shubhamnigave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-I am [Shubham](http://linkedin.com/in/shubham-nigave-5a293720b/), a Devops Active Learner from [INDIA.](https://en.wikipedia.org/wiki/India)&nbsp; passionate about devops based applications with 1.5+ years of professional working experience. 🎯
+I am [Shubham](http://linkedin.com/in/shubham-nigave-5a293720b/), a Devops Active Learner from [INDIA.](https://en.wikipedia.org/wiki/India)&nbsp; Passionate about devops based applications with 1.5+ years of professional working experience. 🎯
 
 - 🌱 Always learning and upskilling myself into **DevOps.**
 
