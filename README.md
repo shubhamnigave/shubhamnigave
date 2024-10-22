@@ -1,18 +1,14 @@
 <h1 align="center">Hi 👋, I'm Shubham Nigave</h1>
-<h3 align="center">FullStack Developer,passionate about Software Development with 1.5+ years of professional working experience. 🎯
-- 🌱 Always learning and upskilling myself into **Current Market Requirement**
-- Mostly work with **Java,Mysql,MongoDB,React,AWS,Cloud based technologies🚀.**</h3>
+<h3 align="center">FullStack Developer,passionate about Software Development with 1.5+ years of professional working experience🎯</h3>
 <h3 align="center">I’m passionate about Web Development and learning new skills.</h3>
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant027&label=Profile%20views&color=0e75b6&style=flat" alt="vedant027" /> </p>
-- 🧑‍💻 I’m currently learning **Full Stack and Devops**
+- 🧑‍💻 🌱 Always learning and upskilling myself into **Current Market Requirement**
 - ✉️ How to reach me **shubham.nigave@gmail.com**
-I am [Shubham](http://linkedin.com/in/shubham-nigave-5a293720b/), FullStack Developer [INDIA,](https://en.wikipedia.org/wiki/India)&nbsp;passionate about devops based applications with 1.5+ years of professional working experience. 🎯
-
-- 🌱 Always learning and upskilling myself into **Current Market Requirement**
-
 - Mostly work with **Java,Mysql,MongoDB,React,AWS,Cloud based technologies🚀.**
+
+I am [Shubham](http://linkedin.com/in/shubham-nigave-5a293720b/), FullStack Developer [INDIA,](https://en.wikipedia.org/wiki/India)&nbsp;passionate about devops based applications with 1.5+ years of professional working experience. 🎯
 
 
 <h3 align="left">Languages and Tools:</h3>
