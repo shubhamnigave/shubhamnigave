@@ -1,8 +1,18 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Shubham Nigave</h1>
+<h3 align="center">I am [Shubham](http://linkedin.com/in/shubham-nigave-5a293720b/), FullStack Developer [INDIA,](https://en.wikipedia.org/wiki/India)&nbsp;passionate about devops based applications with 1.5+ years of professional working experience. 🎯
 
-<!--
-**shubhamnigave/shubhamnigave** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
+- 🌱 Always learning and upskilling myself into **Current Market Requirement**
+
+- Mostly work with **Java,Mysql,MongoDB,React,AWS,Cloud based technologies🚀.**</h3>
+<h3 align="center">I’m passionate about Web Development and learning new skills.</h3>
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/whgQwNlVvNkAAAAi/xero-code.gif">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=vedant027&label=Profile%20views&color=0e75b6&style=flat" alt="vedant027" /> </p>
+
+- 🧑‍💻 I’m currently learning **DSA and Web Development**
+
+- ✉️ How to reach me **vedant.thorat27@gmail.com**
+
 
 I am [Shubham](http://linkedin.com/in/shubham-nigave-5a293720b/), FullStack Developer [INDIA,](https://en.wikipedia.org/wiki/India)&nbsp;passionate about devops based applications with 1.5+ years of professional working experience. 🎯
 
