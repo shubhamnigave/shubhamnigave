@@ -10,8 +10,9 @@
 
 <h4>
   - 🧑‍💻 🌱 Always learning and upskilling to meet current market demands<br>
-  - ✉️ Reach me at: <a href="mailto:shubham.nigave@gmail.com">shubham.nigave@gmail.com</a><br>
-  - Expertise in Java, MySQL, MongoDB, React, AWS, and Cloud-based technologies 🚀
+  - ✉️ Reach me at: <a href="mailto:nigave.shubham@gmail.com">nigave.shubham@gmail.com</a><br>
+  - Expertise in Java, MySQL, MongoDB, React, AWS, and Cloud-based technologies 🚀<br>
+  - 📜 Certifications: Azure Fundamentals (AZ-900) and Azure Administrator (AZ-104)
 </h4>
 
 I am [Shubham](http://linkedin.com/in/shubham-nigave-5a293720b/), a Full Stack Developer from [India](https://en.wikipedia.org/wiki/India), with over 1.5 years of professional experience at Infosys.
